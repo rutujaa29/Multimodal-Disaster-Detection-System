@@ -1,0 +1,22 @@
+# datasets
+dataset/
+prepared_dataset/
+
+# checkpoints
+checkpoints/
+
+# fake detector checkpoints
+fake_checkpoints/
+
+# cache
+__pycache__/
+
+# vscode
+.vscode/
+
+# virtual env
+venv/
+
+# system
+.DS_Store
+Thumbs.db
