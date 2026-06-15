@@ -273,8 +273,8 @@ Powerful storm winds and heavy rainfall caused severe destruction across coastal
 | Architecture      | EfficientNet-B0        |
 | Task              | Fake vs Real Detection |
 | Framework         | PyTorch                |
-| Training Accuracy | ~95%                   |
-| Test Accuracy     | ~95%                   |
+| Training Accuracy | ~89%                   |
+| Test Accuracy     | ~89%                   |
 
 ---
 
